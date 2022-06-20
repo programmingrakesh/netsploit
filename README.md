@@ -6,7 +6,6 @@
 
 # Setup
     sudo ./setup
-    sudo make
 # Run
     sudo ./netsploit
 # Commands
